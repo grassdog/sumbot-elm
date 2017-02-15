@@ -1,0 +1,5 @@
+elm-stuff/
+node_modules/
+tmp/
+dist/
+src/static/_initialState.json
